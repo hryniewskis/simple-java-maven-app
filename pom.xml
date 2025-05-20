@@ -1,4 +1,4 @@
-<project1 xmlns="http://maven.apache.org/POM/4.0.0aaaaaaaaaaaaa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
@@ -8,7 +8,7 @@
   <name>my-app</name>
   <url>https://maven.apache.org</url>
   <dependencies>
-    <dependencyaaaaaaaaaaaaa>
+    <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
       <version>5.11.4</version>
